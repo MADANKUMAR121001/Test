@@ -1,0 +1,365 @@
+.logo{
+    
+    width: 95px;
+    height: 77x;
+    margin-left: 150px;
+}
+.navbar{
+    background-color: black;
+}
+.cart{
+    color: #FFFFFF
+}
+.menu{
+    margin-left: 600px;
+}
+.cart{
+    padding-right: 155px;
+    font-family: 'SF Pro';
+    font-size: 21px;
+    font-weight: 400;
+}
+.first{
+    background-image: url('./components/images/main.png');
+    background-size: cover;
+    display: block;
+    height: 670px;
+}
+.heading{
+    color: white;
+    font-size: 80px;
+    font-family: 'SF Pro';
+    font-weight: 400;
+    text-align: left;
+    padding-left: 200px;
+    padding-top: 65px;
+    padding-bottom: 22px;
+}
+.para{
+    color: white;
+    text-align: left;
+    padding-left: 200px;
+}
+.second{
+    background-color: #111314;
+}
+.inno{
+    color: white;
+    text-align: start;
+    padding: 45px;
+    /* padding-right: 30px; */
+    font-size: 38px;
+}
+.text{
+    color: white;
+    text-align: justify;
+    padding: 55px;
+    /* padding-left: 355px; */
+}
+
+.innovative{
+    color: #FFFFFF;
+    font-size: 26px;
+    font-family: 'SF Pro';
+    text-align: justify;
+    padding: 20px;
+    padding-bottom: 5px;
+}
+.sent{
+    color: #D9D9D9CC;
+    text-align: justify;
+    padding: 20px;
+}
+
+
+.cardnew{
+    height: 208px;
+    width: 270px;
+    border-radius: 15px;
+    background: linear-gradient(#11131466, #68747A33);
+}
+.pain{
+    background-color: black;
+}
+.advance{
+    color: white;
+    font-size: 40px;
+    font-family: 'SF Pro';
+    text-align: justify;
+}
+.cardone{
+    width: 400px;
+}
+.best{
+    height: 32px;
+    width: 90px;
+    border-radius: 5px;
+
+}
+.card-body{
+    background-color: #11131466;
+}
+.card-title{
+    color: #FFFFFF;
+    font-size: 26px;
+    text-align: left;
+    font-family: 'SF Pro';
+}
+.card-new{
+    color: #FFFFFF;
+    font-size: 20px;
+    text-align: left;
+    font-family: 'SF Pro';
+}
+.card-text{
+    color: #D9D9D9CC 80%;
+    font-size: 16px;
+    text-align: left;
+    font-family: 'inter';
+    text-align: justify;
+}
+.precison{
+    color: #FFFFFF;
+    font-family: 'SF Pro';
+    font-size: 26px;
+    padding-top: 105px;
+}
+.durable{
+    color: #FFFFFF;
+    font-family: 'SF Pro';
+    font-size: 26px;
+    padding-top: 175px;
+    padding-right: 160px;
+}
+
+.relief{
+    font-family: 'SF Pro';
+    font-size: 26px;
+    padding-top: 100px;
+    color: #FFFFFF;
+    text-align: center;
+}
+.erg{
+    font-family: 'SF Pro';
+    font-size: 26px;
+    padding-top: 100px;
+    color: #FFFFFF;
+    text-align: start;
+    padding-left:30px ;
+}
+.icons{
+    height: 400px;
+}
+
+.none{
+    width: 56px;
+    height: 56px;
+}
+.imp{
+    color: #D9D9D9CC;
+    text-align: justify;
+    padding-top: 5px;
+}
+.precison{
+    text-align: justify;
+    padding: 10px;
+}
+.benefit{
+    color: #FFFFFF;
+    font-size: 40px;
+    font-family: 'SF Pro';
+    text-align: start;
+}
+.inter{
+    color: #FFFFFF;
+    font-family: 'SF Pro';
+    font-size: 40px;
+}
+.comp{
+    color: #FFFFFF;
+    font-family: 'SF Pro';
+    font-size: 26px;
+    text-align: justify;
+}
+.comptext{
+    color: #D9D9D9CC;
+    font-family: 'inter';
+    font-size: 16px;
+    text-align: justify;
+}
+.our{
+    color: #FFFFFF;
+    font-size: 40px;
+    font-family: 'SF Pro';
+    text-align: justify;
+}
+.button{
+    background:linear-gradient(#D41C2C,#711746);
+    border-color: #D41C2C;
+    padding: 12.5px 24px;
+    color: white;
+}
+.color{
+    background: linear-gradient(#11131466,#68747A33);
+}
+.range{
+    width: 230px;
+    height: 200px;
+}
+.cardfour{
+    height: 559px;
+    width: 360px;
+}
+mark{
+    background-image: url('./components/images/mark.png');
+    height: 200px;
+    width: 20px;
+}
+.black{
+    color: #FFFFFF;
+    font-size: 30px;
+    font-weight: 274;
+    font-family: 'SF Pro';
+}
+.blackbox{
+    background-color: #000000;
+}
+.review{
+    font-family: 'SF Pro';
+    font-size: 40px;
+    color: #FFFFFF;
+}
+.comprehensive{
+    background-color: #000000;
+    height: 857px;
+}
+.comprehensiveone{
+    background-color: #000000;
+    height: 834px;
+}
+.lastbox{
+    background-color: #000000;
+    height: 427px;
+}
+.experience{
+    background-color: #000000;
+    height: 700px;
+}
+.insights{
+    background-color: #111314;
+    height: 700px;
+}
+.contents{
+    padding-top: 70px;
+}
+/* .linebox{
+    background-color: #111314;
+    height: 400px;
+} */
+.maximum{
+    font-size: 40px;
+    color: #DFB318;
+    font-family: 'SF Pro';
+}
+.company{
+    margin-top: 15px;
+    border-top: #000000;
+    background-color: #7777771F;
+    border-right: #000000;
+    border-left: #000000;
+    color: #FFFFFF;
+}
+.form-control{
+    margin-top: 50px;
+    border-top: #000000;
+    background-color: #7777771F;
+    border-right: #000000;
+    border-left: #000000;
+    
+    /* color: #FFFFFF; */
+}
+
+.learn{
+    color: #FFFFFF;
+    font-family: 'inter';
+}
+.iconlogo{
+    width: 95px;
+    height: 77px;
+    margin-top: 25px;
+}
+.homebutton{
+    text-align: justify;
+    padding: 15px;
+    color: #D9D9D999;
+    /* text-decoration: underl; */
+}
+.products{
+    color: #FFFFFF;
+    /* text-align: justify; */
+}
+.home{
+    /* text-align: justify; */
+    color: #D9D9D999;
+    padding: 20px;
+}
+.twit{
+    margin: 10px;
+}
+.line{
+    height: 5px;
+    color: #6F6F6F;
+}
+.rights{
+    color: #D9D9D999;
+    font-size: 16px;
+    font-family: 'SF Pro';
+    font-weight: 400;
+}
+.boxblack{
+    background-color: #111314;
+}
+/* .leftarrow{
+    margin-top: 35px;
+    margin-right: 25px;
+} */
+ .arrow{
+    display: flex;
+    justify-content: end;
+    
+ }
+.themark{
+    font-family: 'SF Pro';
+    font-size: 26px;
+    color: #FFFFFF;
+    text-align: justify;
+}
+.thehip{
+    font-family: 'inter';
+    font-size: 16px;
+    color:  #FFFFFF;
+    text-align: justify;
+}
+.boxheight{
+    height: 559px;
+    /* width: 360px; */
+    align-items: center;
+}
+
+
+
+.mobile{
+    height: 56px;
+    width: 56px;
+}
+
+.son{
+    height: 56px;
+    width: 56px;
+    margin: 35px;
+    margin-bottom: 15px;
+    margin-left: 5px;
+}
+.qwerty{
+    background-color: #111314;
+}
