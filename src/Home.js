@@ -66,7 +66,7 @@ function Home() {
               </p>
             </div>
           </div>
-             
+
           <div className="boxblack">
             <div className="container">
               <div className="row ">
@@ -152,7 +152,7 @@ function Home() {
             <div className="col-4 boxheight">
               <div className="card">
                 <div className="cardimage">
-                  <img src={mark} className="range" />
+                  <img src={mark} alt="img"className="range" />
                 </div>
                 <div className="card-body color">
                   <h5 className="themark">The Mark</h5>
@@ -164,9 +164,8 @@ function Home() {
                   <div class="button1">
                     <button
                       type="button"
-                      class="btn btn-outline-danger rounded-pill"
-                    >
-                      <img src={arrow} /> BUY NOW
+                      class="btn btn-outline-danger rounded-pill">
+                      <img src={arrow}alt="img" /> BUY NOW
                     </button>
                   </div>
                 </div>
@@ -175,7 +174,7 @@ function Home() {
             <div className="col-4 boxheight">
               <div className="card">
                 <div className="cardimage">
-                  <img src={range} className="range" />
+                  <img src={range} alt="img" className="range" />
                 </div>
                 <div className="card-body color">
                   <h5 className="themark">The Range</h5>
@@ -189,7 +188,7 @@ function Home() {
                       type="button"
                       class="btn btn-outline-danger rounded-pill"
                     >
-                      <img src={arrow} /> BUY NOW
+                      <img src={arrow}alt="img" /> BUY NOW
                     </button>
                   </div>
                 </div>
@@ -198,7 +197,7 @@ function Home() {
             <div className="col-4 boxheight">
               <div className="card">
                 <div className="cardimage">
-                  <img src={band} className="range" />
+                  <img src={band} alt="img" className="range" />
                 </div>
                 <div className="card-body color">
                   <h5 className="themark">The Band</h5>
@@ -212,7 +211,7 @@ function Home() {
                       type="button"
                       class="btn btn-outline-danger rounded-pill"
                     >
-                      <img src={arrow} /> BUY NOW
+                      <img src={arrow} alt="img"/> BUY NOW
                     </button>
                   </div>
                 </div>
@@ -225,14 +224,11 @@ function Home() {
           <img src={rightarrow} alt="arrow" className="leftarrow" />
         </div>
         </div>
-
-        
-
         <div className="container-fluid mt-5 icons">
           <div className="row">
             <div className="col-3">
               <div class="card qwerty">
-                  <img src={arch} class="card-img-top son" alt="..."/>
+                  <img src={arch} class="card-img-top son" alt="img"/>
                   <div class="card-body qwerty">
                     <h5 class="card-title ">Precision relief</h5>
                       </div>
@@ -240,7 +236,7 @@ function Home() {
               </div>
             <div className="col-3">
              <div class="card qwerty">
-                  <img src={mob} class="card-img-top mobile" alt="..."/>
+                  <img src={mob} class="card-img-top mobile" alt="img"/>
                   <div class="card-body qwerty">
                     <h5 class="card-title">Mobility<br/>enchancement</h5>
                     <p className="imp">Improves movement and<br/>flexibility</p>
@@ -249,7 +245,7 @@ function Home() {
             </div> 
             <div className="col-3">
             <div class="card qwerty">
-                  <img src={durab} class="card-img-top son" alt="..."/>
+                  <img src={durab} class="card-img-top son" alt="img"/>
                   <div class="card-body qwerty">
                     <h5 class="card-title">Durable construction</h5>
                       </div>
@@ -257,7 +253,7 @@ function Home() {
             </div>
             <div className="col-3">
             <div class="card qwerty">
-                  <img src={erg} class="card-img-top son" alt="..."/>
+                  <img src={erg} class="card-img-top son" alt="img"/>
                   <div class="card-body qwerty">
                     <h5 class="card-title">Ergonomic and<br/>effective</h5>
                       </div>
@@ -265,7 +261,6 @@ function Home() {
               </div>
           </div>
         </div>
-
         <div className="comprehensiveone">
           <div className="container contents ">
             <div className="row">
@@ -275,7 +270,7 @@ function Home() {
                 <br />
               </div>
               <div className="col-6 pt-5">
-                <h5 className="comp">Comprehensive solutions</h5>
+                <h5 className="comp mt-4">Comprehensive solutions</h5>
                 <p className="comptext">
                   Combine multiple products to offer holistic treatment plans
                   tailored
@@ -310,7 +305,7 @@ function Home() {
           <div className="container contents">
             <h4 className="benefit">Retailing Aletha Health Products</h4>
             <div className="row">
-              <div className="col-6">
+              <div className="col-5">
                 <h5 className="comp mt-3">Additional revenue</h5>
                 <p className="comptext">
                   Generate income by selling high-quality products alongside
@@ -344,7 +339,7 @@ function Home() {
                   retailing opportunities and support resources.
                 </p>
               </div>
-              <div className="col-6">
+              <div className="col-7">
                 <img src={retail} alt="card-img" className="ben" />
               </div>
             </div>
@@ -379,7 +374,7 @@ function Home() {
                 Explore comprehensive studies and analyses showcasing the<br/>
                 efficacy and benefits of our products.</p>
               <button type="button" class="button rounded-pill">
-                <img src={arrow}/> Learn more
+                <img src={arrow} alt="img"/> Learn more
               </button>
             </div>
           </div>
@@ -388,7 +383,7 @@ function Home() {
           <div className="container contents">
             <h4 className="benefit">How to use our products</h4>
             <div className="row">
-              <div className="col-6">
+              <div className="col-5">
                 <p className="comptext">
                   Explore essential techniques for maximizing the effectiveness
                   of
@@ -399,10 +394,10 @@ function Home() {
                   alleviate discomfort across various muscle groups.
                 </p>
                 <button type="button" class="button rounded-pill">
-                  <img src={arrow} /> Know more
+                  <img src={arrow}alt="img" /> Know more
                 </button>
               </div>
-              <div className="col-6">
+              <div className="col-7">
                 <img src={prod} alt="card-img" className="ben" />
               </div>
             </div>
@@ -411,7 +406,7 @@ function Home() {
         <div className="container mt-5">
           <div className="row">
             <div className="col-6">
-              <img src={exp} alt="card-img" className="ben" />
+              <img src={exp} alt="card-img" className="exp" />
             </div>
             <div className="col-6">
               <h4 className="our">Experience relief today</h4>
@@ -419,7 +414,7 @@ function Home() {
                 Transform your well-being with a single click.
               </p>
               <button type="button" class="button rounded-pill">
-                <img src={arrow} /> Buy Now
+                <img src={arrow} alt="img"/> Buy Now
               </button>
             </div>
           </div>
@@ -427,7 +422,7 @@ function Home() {
         <div className="comprehensive mt-5">
           <div className="container contents">
             <div className="row">
-              <div className="col-6">
+              <div className="col-6 blurbox">
                 <h4 className="maximum">Maximize savings</h4>
                 <div className="mt-5">
                   <input
@@ -442,8 +437,7 @@ function Home() {
                     class="form-control"
                     id="email"
                     placeholder="Contact person name*"
-                    name="email"
-                  />
+                    name="email"/>
                 </div>
                 <input
                   type="email"
@@ -466,8 +460,7 @@ function Home() {
                   placeholder="Company website(optional)*"
                   name="email"
                 />
-                <button type="button" class="button rounded-pill mt-5">
-                  Send message <img src={arrow} />
+                <button type="button" class="button rounded-pill mt-5">Send message <img src={arrow} alt="img"/>
                 </button>
               </div>
               <div className="col-6">
