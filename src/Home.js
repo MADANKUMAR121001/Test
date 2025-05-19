@@ -62,14 +62,15 @@ function Home() {
                 Aletha Health offers pioneering solutions meticulously crafted
                 to alleviate pain and enhance overall well-being. Our products
                 blend innovation with simplicity, addressing diverse user needs
-                while providing effective pain relief.
+                while<br/>
+                providing effective pain relief.
               </p>
             </div>
           </div>
 
           <div className="boxblack">
             <div className="container">
-              <div className="row ">
+              <div className="row">
                 <div className="col-3">
                   <div className="cardnew">
                     <div className="card-box">
@@ -138,7 +139,7 @@ function Home() {
             </div>
           </div>
 
-          <div className="arrow mt-5">
+          <div className="arrow mt-5 gap-4">
             <img src={leftarrow} alt="arrow" className="leftarrow" />
             <img src={rightarrow} alt="arrow" className="leftarrow" />
           </div>
@@ -164,7 +165,7 @@ function Home() {
                   <div class="button1">
                     <button
                       type="button"
-                      class="btn btn-outline-danger rounded-pill">
+                      class="btn btn-outline-danger rounded-pill buynow">
                       <img src={arrow}alt="img" /> BUY NOW
                     </button>
                   </div>
@@ -186,7 +187,7 @@ function Home() {
                   <div class="button1">
                     <button
                       type="button"
-                      class="btn btn-outline-danger rounded-pill"
+                      class="btn btn-outline-danger rounded-pill buynow"
                     >
                       <img src={arrow}alt="img" /> BUY NOW
                     </button>
@@ -209,7 +210,7 @@ function Home() {
                   <div class="button1">
                     <button
                       type="button"
-                      class="btn btn-outline-danger rounded-pill"
+                      class="btn btn-outline-danger rounded-pill buynow"
                     >
                       <img src={arrow} alt="img"/> BUY NOW
                     </button>
@@ -219,7 +220,7 @@ function Home() {
             </div>
           </div>
 
-          <div className="arrow">
+          <div className="arrow gap-4">
           <img src={leftarrow} alt="arrow" className="leftarrow" />
           <img src={rightarrow} alt="arrow" className="leftarrow" />
         </div>
@@ -423,7 +424,7 @@ function Home() {
           <div className="container contents">
             <div className="row">
               <div className="col-6 blurbox">
-                <h4 className="maximum">Maximize savings</h4>
+                <h4 className="maximum pt-5">Maximize savings</h4>
                 <div className="mt-5">
                   <input
                     type="email"
